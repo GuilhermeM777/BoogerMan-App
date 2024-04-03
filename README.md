@@ -1,5 +1,5 @@
 # BoogerMan-App
-## "Guia do Nojo"
+## "Guia Nojento"
 Cauã Magalhães Leão e Guilherme Matos de Oliveira
 
 Essse aplicativo foi feito para guiar o jogador na obra Boogerman: A Plick and Flick Adventure, lançado em 1994 para plataforma de Super Nintendo. Contendo a descrição do jogo, jogabilidade, fases e personagens presentes no jogo.
@@ -92,3 +92,6 @@ Performance: O Image é otimizado para um bom desempenho, permitindo que você e
 O Image é uma parte fundamental da criação de interfaces de usuário visualmente atraentes e é amplamente utilizado em aplicativos Flutter para exibir fotos, ícones, logotipos e outros tipos de imagens estáticas.
 
 
+
+## Wikis das Telas.
+- [https://github.com/GuilhermeM777/BoogerMan-App.wiki.git](https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Incial)
