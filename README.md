@@ -94,4 +94,8 @@ O Image é uma parte fundamental da criação de interfaces de usuário visualme
 
 
 ## Wikis das Telas.
-- [https://github.com/GuilhermeM777/BoogerMan-App.wiki.git](https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Incial)
+- [https://github.com/GuilhermeM777/BoogerMan-App.wiki.git](https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Incial) (Tela Inicial)
+- https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Personagens (Tela Personagens)
+- https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-História (Tela História)
+- https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Fases (Tela Fases)
+- https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Exemplo (Tela Exemplo)
