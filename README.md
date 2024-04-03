@@ -92,6 +92,16 @@ Performance: O Image é otimizado para um bom desempenho, permitindo que você e
 O Image é uma parte fundamental da criação de interfaces de usuário visualmente atraentes e é amplamente utilizado em aplicativos Flutter para exibir fotos, ícones, logotipos e outros tipos de imagens estáticas.
 
 
+## Mapa das Telas
+<div align="center">
+
+> ![image](https://github.com/GuilhermeM777/BoogerMan-App/assets/127865701/fd9ba499-c20b-497c-8d45-5a0ca0a77d1b)
+
+</Div>
+
+***
+
+Nos mapas de tela, da para se perceber que a Tela Inicial se ligar à todos, e analisando melhor, todas as telas se ligam a todas, por conta do menu e da seta de voltar que tem esse tipo de interação.
 
 ## Wikis das Telas.
 - [https://github.com/GuilhermeM777/BoogerMan-App.wiki.git](https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Incial) (Tela Inicial)
