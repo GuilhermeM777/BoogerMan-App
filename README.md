@@ -25,6 +25,27 @@ Personalização: Além das opções mencionadas acima, há muitas outras propri
 
 O AppBar é um componente fundamental para muitos aplicativos Flutter, pois fornece uma maneira fácil de criar uma barra de aplicativo consistente e funcional em todas as telas do seu aplicativo.
 
+# Container
+O widget Container é um dos widgets mais versáteis e usados. Ele é um contêiner retangular que pode conter outros widgets. Sua principal função é controlar a posição, tamanho e aparência dos seus “filhos”.
+
+child: Esta é a propriedade mais comum de um Container. Ela define o widget filho que será contido dentro do contêiner. Este pode ser qualquer widget, desde um simples texto até um layout complexo.
+
+alignment: Controla o alinhamento do widget filho dentro do contêiner. Você pode alinhar o filho verticalmente, horizontalmente ou em ambos os eixos.
+
+padding: Define o espaço em torno do filho dentro do contêiner. Isso é útil para adicionar margens entre o filho e a borda do contêiner.
+
+margin: Define o espaço em torno do contêiner. Isso é útil para posicionar o contêiner em relação a outros widgets na tela.
+
+color: Define a cor de fundo do contêiner. Isso pode ser útil para adicionar cor de fundo a um contêiner ou até mesmo criar uma barra de cores.
+
+decoration: Permite definir uma decoração mais complexa para o contêiner, como uma borda, uma sombra, um gradiente ou uma imagem de fundo. Isso oferece muito mais controle sobre a aparência visual do contêiner.
+
+constraints: Permite definir limites explícitos para o tamanho do contêiner. Isso pode ser útil quando você precisa garantir que o contêiner tenha um tamanho mínimo ou máximo.
+
+width e height: Permitem definir o tamanho do contêiner de forma explícita. Isso pode ser útil quando você precisa de um tamanho fixo para o contêiner.
+
+transform: Permite aplicar transformações geométricas, como rotação, escala e translação, ao contêiner e seu conteúdo.
+
 # Column
 É um componente fundamental para o layout de muitos aplicativos Flutter, especialmente quando você precisa empilhar vários widgets um em cima do outro na vertical.
 
