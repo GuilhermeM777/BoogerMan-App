@@ -126,8 +126,8 @@ O Image é uma parte fundamental da criação de interfaces de usuário visualme
 Nos mapas de tela, da para se perceber que a Tela Inicial se ligar à todos, e analisando melhor, todas as telas se ligam a todas, por conta do menu e da seta de voltar que tem esse tipo de interação.
 
 ## Wikis das Telas.
-- [https://github.com/GuilhermeM777/BoogerMan-App.wiki.git](https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Incial) (Tela Inicial)
-- https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Personagens (Tela Personagens)
-- https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-História (Tela História)
-- https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Fases (Tela Fases)
-- https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Exemplo (Tela Exemplo)
+- <a href="[https://github.com/GuilhermeM777/BoogerMan-App.wiki.git](https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Incial) (Tela Inicial)"> Tela Inicial
+- <a href="https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Personagens"> Tela Peresonagens
+- <a href="https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-História (Tela História)"> Tela História
+- <a href="https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Fases"> Tela Fases
+- <a href="https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Exemplo"> Tela Exemplo
