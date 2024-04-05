@@ -116,7 +116,8 @@ O Image é uma parte fundamental da criação de interfaces de usuário visualme
 ## Mapa das Telas
 <div align="center">
 
-> ![image](https://github.com/GuilhermeM777/BoogerMan-App/assets/127865701/fd9ba499-c20b-497c-8d45-5a0ca0a77d1b)
+> ![image](https://github.com/GuilhermeM777/BoogerMan-App/assets/127865701/da71c06b-afec-4957-b032-7d8604220b9b)
+
 
 </Div>
 
