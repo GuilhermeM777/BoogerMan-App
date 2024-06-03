@@ -134,4 +134,5 @@ Nos mapas de tela, da para se perceber que a Tela Inicial se ligar à todos, e a
 
 ***
 
-## Wikis do Aplicativo
+## Aplicativo
+Por enquanto somente a tela inicial e a tela de história contém mais elementos do que o habitual, o resto das telas como a de fases e personagens ainda não foi atribuída nenhum tipo de elemento, a não ser o de troca de tela. 
