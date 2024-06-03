@@ -136,3 +136,9 @@ Nos mapas de tela, da para se perceber que a Tela Inicial se ligar à todos, e a
 
 ## Aplicativo
 Por enquanto somente a tela inicial e a tela de história contém mais elementos do que o habitual, o resto das telas como a de fases e personagens ainda não foi atribuída nenhum tipo de elemento, a não ser o de troca de tela. 
+
+***
+## Vídeo Demonstração
+
+https://github.com/GuilhermeM777/BoogerMan-App/assets/127865701/2af8c984-bf55-45ff-b3cf-790da040a209
+
