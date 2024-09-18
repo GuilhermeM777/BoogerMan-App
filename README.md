@@ -131,7 +131,7 @@ Nos mapas de tela, da para se perceber que a Tela Inicial se ligar à todos, e a
 - <a href="https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-História (Tela História)"> Tela História
 - <a href="https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Fases"> Tela Fases
 - <a href="https://github.com/GuilhermeM777/BoogerMan-App/wiki/Tela-Exemplo"> Tela Exemplo
-
+- <a href="https://github.com/GuilhermeM777/BoogerMan-App/wiki/Diagrama-de-Classes"> Tela de Diagramas de Classe
 ***
 
 ## Aplicativo
