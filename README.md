@@ -134,11 +134,10 @@ Nos mapas de tela, da para se perceber que a Tela Inicial se ligar à todos, e a
 - <a href="https://github.com/GuilhermeM777/BoogerMan-App/wiki/Diagrama-de-Classes"> Tela de Diagramas de Classe
 ***
 
-## Aplicativo
-Por enquanto somente a tela inicial e a tela de história contém mais elementos do que o habitual, o resto das telas como a de fases e personagens ainda não foi atribuída nenhum tipo de elemento, a não ser o de troca de tela. 
+### Link para o drive do aplicativo
+Por algum motivo meu aplicativo estava muito pesado para por no github, então vou deixar abaixo o link para acesso dele.
+https://drive.google.com/drive/folders/1IYrIR2hhcK9G9qoR7_fow9pDURO4T7CK?usp=sharing
 
-***
-## Vídeo Demonstração
-
-https://github.com/GuilhermeM777/BoogerMan-App/assets/127865701/2af8c984-bf55-45ff-b3cf-790da040a209
+### Vídeo Demonstração
+https://github.com/user-attachments/assets/efbe6815-7acc-4ea1-add7-f76605970956
 
