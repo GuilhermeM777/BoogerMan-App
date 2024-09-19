@@ -135,7 +135,7 @@ Nos mapas de tela, da para se perceber que a Tela Inicial se ligar à todos, e a
 ***
 
 ### Link para o drive do aplicativo
-Por algum motivo meu aplicativo estava muito pesado para por no github, então vou deixar abaixo o link para acesso dele.
+Por algum motivo meu aplicativo estava muito pesado para por no github, então vou deixar abaixo o link para acesso dele. Também a tela está sem áudio pois eu não consegui fazer com que a música do aplicativo funcionasse.
 https://drive.google.com/drive/folders/1IYrIR2hhcK9G9qoR7_fow9pDURO4T7CK?usp=sharing
 
 ### Vídeo Demonstração
